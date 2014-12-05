@@ -1,6 +1,6 @@
 {
   "name": "css-flex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimalist flexbox grid. Sets an element to be `display: flex`",
   "main": "index.css",
   "scripts": {
