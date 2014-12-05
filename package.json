@@ -1,0 +1,25 @@
+{
+  "name": "css-flex",
+  "version": "1.0.0",
+  "description": "Minimalist flexbox grid. Sets an element to be `display: flex`",
+  "main": "index.css",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "yoshuawuyts/css-flex",
+  "keywords": [
+    "flex",
+    "flexbox",
+    "css",
+    "sheetify"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.css",
+    "HISTORY.md"
+  ]
+}
